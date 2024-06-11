@@ -1,0 +1,63 @@
+body{
+    background:#2f4763;
+    color:white;
+    text-align:center;
+  }
+  .camera-icon{
+    background-color:white;
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    margin: auto;
+  }
+  p{
+    color:black;
+  }
+  .container{
+    background-color:black;
+    height: 445px;
+    width:22%;
+    margin:auto;
+    border-radius:15px;
+    padding: 5px
+  }
+  .screen{
+    background-color:#e6ecf1;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    height:353px;
+  }
+  button{
+    background-color:#e6ecf1;
+    margin-top: 10px;
+    width:70px;
+    font-weight:bolder;
+    height:30px;
+    border-radius:3px;
+  }
+  .clear{
+    margin-right:10px
+  }
+  .number-input{
+    border-radius:7px;
+    width: 180px;
+    height:40px;
+  }
+  .hidden-div{
+    text-align:center;
+    font-weight:bolder;
+    font-size: 20px;
+    margin-top: 40px;
+    color: #31383b;
+    display:none;
+    max-height: 200px; 
+    overflow-y: auto;
+  }
+  h1{
+    width:25%;
+    text-align:center;
+    margin: auto;
+  }
+  
+  
